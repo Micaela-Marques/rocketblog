@@ -13,8 +13,7 @@
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 - **HTML** **e** **CSS**
-- **Javascript**
-- **Git** **e** **GitHub**
+
   
   ---
   <h3 align="center">Projeto💻 </h3>
